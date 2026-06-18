@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**udarshcodes/udarshcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome!" alt="Typing Animation" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Welcome
+
+My GitHub is currently being structured and refined.
+
+Some of my project repositories are private for now, but they will be be made public very soon.
+
+**Stay tuned.**
+
+</div>
