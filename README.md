@@ -2,7 +2,7 @@
 <h3 align="center">AI Systems Engineer in the making • Building agentic pipelines, not just prototypes</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Second+year+CSE+student+at+VIT+Chennai;Building+CodeSentinel%2C+a+10+agent+LangGraph+pipeline;Google+Student+Ambassador+2026;Open+source+contributor+%26+researcher+in+progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Second+year+CSE+student+at+VIT+Chennai;Building+CodeSentinel%2C+a+10+agent+LangGraph+pipeline;Google+Student+Ambassador+2026;Open+source+contributor+%26+researcher+in+progress" alt="Typing SVG" />
 </p>
 
 <p align="center">
