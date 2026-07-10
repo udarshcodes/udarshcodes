@@ -28,7 +28,6 @@ I care about the full loop: architecture decisions that hold up under scale, doc
 * Ten specialized LangGraph agents: Repo Mapper, Dependency Analyzer, Static Analysis, Bug Investigator, Repair Planner, Code Generator, Validator, Security Verifier, PR Author, and an Orchestrator that ties them together
 * FastAPI backend, React frontend, ChromaDB for retrieval, Groq for inference, deployed on Azure with Vercel serving the frontend
 * SEARCH and REPLACE style patching instead of relying on `git apply`, a round robin key dispatcher with failover across six Groq keys, an LRU context cache invalidated on git commits, and tiered model routing between 70b and 8b models for cost and speed
-* Currently being shaped into a research paper, with a benchmark on real open source bugs, baseline comparisons, and ablation studies, targeting an arXiv preprint and a workshop submission
 
 **ThreadCounty** — an AI powered textile analysis platform
 * Next.js 16 and React 19 on the frontend, FastAPI and OpenCV on the backend, Supabase for data, Groq for the LLM layer
